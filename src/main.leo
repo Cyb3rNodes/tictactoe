@@ -8,7 +8,7 @@ program tictactoe.aleo {
     struct Row {
         c1: u8,
         c2: u8,
-        c3: u8
+        c3: u8 
     }
 
     // A tic tac toe board.
